@@ -1,2 +1,2 @@
 # etagdemo
-E-TAG sample app with djang and drf
+E-TAG sample app with django and drf
